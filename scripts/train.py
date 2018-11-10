@@ -17,6 +17,3 @@ print(f"Argument 2: {args.output_train}")
 if not (args.output_train is None):
 	os.makedirs(args.output_train, exist_ok=True)
 	print(f"{args.output_train} created")
-
-
-
