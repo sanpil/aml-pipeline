@@ -1,5 +1,8 @@
 # AML Pipeline
-This is the staging place for AML Pipeline Sample notebooks.
+This is the staging place for AML Pipeline Sample notebooks. The official repo for AML Pipelines is [here](https://aka.ms/aml-pipeline-notebooks). 
+
+[!NOTE]
+>You should treat the official repro as the source of truth. As soon as a Notebook becomes available there, the corresponding copy here will be removed.
 
 ## Overview
 
