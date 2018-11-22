@@ -1,8 +1,8 @@
 # AML Pipeline
-This is the staging place for AML Pipeline Sample notebooks. The official repo for AML Pipelines is in the [*official repo*](https://aka.ms/aml-pipeline-notebooks). 
+This is the staging place for AML Pipeline Sample notebooks. All staging files will be migrated to the [*official repo*](https://aka.ms/aml-pipeline-notebooks) as soon as they are "customer ready." 
 
 >**WHERE DID THE REST OF THE SAMPLES GO?**   
->You should treat the [official repro](https://github.com/Azure/MachineLearningNotebooks/tree/master/pipeline) as the source of truth. As soon as a Notebook becomes available there, the corresponding copy here will be removed.
+>You should treat the [official repro](https://github.com/Azure/MachineLearningNotebooks/tree/master/pipeline) as the source of truth. As soon as a notebook gets migrated to the official repo, the corresponding copy here is removed.
 
 ## Overview
 
