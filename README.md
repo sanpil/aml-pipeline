@@ -1,5 +1,5 @@
 >## Note   
-The official repo for Azure Machine Learning Notebooks for Pipelines is this: [aka.ms/aml-pipeline-notebooks](https://aka.ms/aml-pipeline-notebooks). This repro introduces concepts in the alpha stage of development. As soon as the Notebooks become official versions, they will be moved from here to the official repo.
+>The official repo for Azure Machine Learning Notebooks for Pipelines is this: [aka.ms/aml-pipeline-notebooks](https://aka.ms/aml-pipeline-notebooks). This repro introduces concepts in the alpha stage of development. As soon as the Notebooks become official versions, they will be moved from here to the official repo.
 
 # Azure Machine Learning Pipeline
 
